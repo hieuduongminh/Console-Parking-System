@@ -1,0 +1,9 @@
+{
+  "car_identity": "65C-12345",
+  "arrival_time": "2025-06-20 09:09",
+  "departure_time": null,
+  "frequent_parking_number": null,
+  "total_fee": null,
+  "payment_amount": null,
+  "created_at": "2025-06-20 10:12"
+}

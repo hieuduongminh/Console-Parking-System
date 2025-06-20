@@ -1,0 +1,10 @@
+[
+  {
+    "arrival_time": "2025-06-20 01:01",
+    "departure_time": "2025-06-20 10:29",
+    "total_fee": 32.35,
+    "payment_amount": 100.0,
+    "credits_used": 0.0,
+    "timestamp": "2025-06-20T10:29:00.791900"
+  }
+]

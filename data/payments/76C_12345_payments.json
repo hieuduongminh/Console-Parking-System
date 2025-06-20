@@ -1,0 +1,18 @@
+[
+  {
+    "arrival_time": "2025-06-19 11:11",
+    "departure_time": "2025-06-19 23:03",
+    "total_fee": 88.42,
+    "payment_amount": 100.0,
+    "credits_used": 0.0,
+    "timestamp": "2025-06-19T23:03:02.410573"
+  },
+  {
+    "arrival_time": "2025-06-20 10:10",
+    "departure_time": "2025-06-20 10:23",
+    "total_fee": 2.22,
+    "payment_amount": 100.0,
+    "credits_used": 2.22,
+    "timestamp": "2025-06-20T10:23:19.824786"
+  }
+]
