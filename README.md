@@ -63,13 +63,6 @@ python3 run.py
 
 ## Pricing Structure
 
-### Time Periods
-- **Night (00:00-07:59)**: Flat rate of $20.00
-- **Day (08:00-16:59)**: Variable rates
-  - Weekday: $10.00/hour (first 8 hours), double rate for overtime
-  - Weekend: Progressive rates ($10, $10, $3, $3, $3, $3, $3, $3, $2/hour)
-- **Evening (17:00-23:59)**: $5.00/hour
-
 ### Frequent Parking Discounts
 - **50% discount**: Night and evening periods (17:00-08:00)
 - **10% discount**: Day periods (08:00-17:00)
@@ -153,8 +146,6 @@ This project is for educational purposes and demonstrates:
 - DateTime manipulation
 - Complex business logic implementation
 - Modular code organization
-
-#===============================================================================
 
 
 
